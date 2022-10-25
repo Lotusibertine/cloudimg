@@ -1,0 +1,23 @@
+{
+  "name": "lotusibertine-static",
+  "version": "1.0.0",
+  "description": "lotusibertne static file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lotusibertine/cloudimg.git"
+  },
+  "keywords": [
+    "static",
+    "file"
+  ],
+  "author": "lotusibertine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lotusibertine/cloudimg/issues"
+  },
+  "homepage": "https://github.com/Lotusibertine/cloudimg#readme"
+}
