@@ -1,6 +1,6 @@
 {
   "name": "lotusibertine-static",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "lotusibertne static file",
   "main": "index.js",
   "scripts": {
